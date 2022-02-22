@@ -1,0 +1,13 @@
+Is the future predetermined?
+
+We will explore this question via a series of thought experiments, starting from a very naive approach and gradually adding complexity.
+
+Imagine two observers in the same inertial reference frame F, separated by some distance. Let observer A instantaneously boost in the direction of observer B to intertial reference frame F', and then instantaneously boost back to its original reference frame F. In doing so, oberserver A will briefly coexist in a frame with event E (which occurs at the location of observer B), and then return to a frame in which event E has not yet happened (Figure 1). Observer A is neither able to observe event E, nor inform observer B about it in any way before it happens in reference frame F.
+
+We would now like observer A to observe event E in frame F' before boosting back to frame F. We can label the spacetime point where information about event E reaches observer A as E_A. Since information about the event travels at most at the speed of light, we can see that from E_A there is no frame to which oberver A can boost to where event E has not yet occurred (Figure 2).
+
+We now consider a pair of entangled photons. They are emitted partway between observers A and B, and travel in opposite directions towards each observer. Consider the photons to be travelling in vacuum. At the moment of event E_A, when observer A measures photon \gamma_A, the observer can instantaneously boost either forwards or backwards to a new inertial reference frame F', in which \gamma_B has also undergone wavefunction collapse. Since the location of \gamma_B can be made arbitrarily close to the point of emission via the choice of F', we see that the wavefunction is already collapsed arbitrarily close to the point of emission (Figure 3). The same argument can be made from the perspective of observer B, meaning that the collapsed states of the entagled photons are already determined at emission.
+
+<entangled photons are not just predetermined states - show version of Bellman inequality with boost>
+
+<instantaneous boost is not possible, since a boost requires energy. show calculation using values for smallest mass and total energy of universe, to get smallest length scale for wavefunction collapse>
